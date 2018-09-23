@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一如既往的蜗牛</title>
+  
+  <subtitle>我要一步一步往上爬</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-23T12:29:02.857Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Robin_D</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想要写点东西的动机</title>
+    <link href="http://yoursite.com/2018/07/12/%E6%83%B3%E8%A6%81%E5%86%99%E7%82%B9%E4%B8%9C%E8%A5%BF%E7%9A%84%E5%8A%A8%E6%9C%BA/"/>
+    <id>http://yoursite.com/2018/07/12/想要写点东西的动机/</id>
+    <published>2018-07-12T15:52:02.000Z</published>
+    <updated>2018-09-23T12:29:02.857Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="想要写点东西的动机"><a href="#想要写点东西的动机" class="headerlink" title="想要写点东西的动机"></a>想要写点东西的动机</h2><h3 id="也曾是“完美主义”者"><a href="#也曾是“完美主义”者" class="headerlink" title="也曾是“完美主义”者"></a>也曾是“完美主义”者</h3><p>学生时代的自己其实比较讨厌写作，每周的两节连堂的写作课都能让肾上腺素猛增，第一节课基本是写下个标题，列个提纲，构思个每段结构。看起来很专业的样子，其实都是完美主义在作祟，经常是一节课完了，就真的只有个题目，课间同道的同学互相调侃某某，又憋了什么大招，偶尔各自感叹的会回复下，如下的一则笑话，一语中的！</p><a id="more"></a><blockquote><p>写作就像拉xiang，有时候憋了很久，到头来却只是一个P！</p></blockquote><p>到第二节课，就不管什么构思，语句了，匆忙找几个有关的事例（论据）来填充下，开头结尾来几句总结议论的话，稍微打个能扣主题的擦边球，字数足够，OK，危机方算解除。</p><h3 id="也想成为生活记录者"><a href="#也想成为生活记录者" class="headerlink" title="也想成为生活记录者"></a>也想成为生活记录者</h3><p>走出校园已经快一年了，回想四年大学，记忆中搜索不出许多深刻片段，就算当时体验再深刻，时间一长，什么都能变淡。自己曾经也试着通过照片，视频的形式去记录这些，可一年下来手机里存不了几张图片，毕业照好像都是不久前从班群下载下来了，顿时发现自己虚度了这20余载，很多人，很多事，很多精彩片段，本应该以一种实物的形式去留存，才能长久，说什么记忆能永存，那都是没被时间抚摸过的年轻银呐。</p><h3 id="就是现在，时刻记录生活"><a href="#就是现在，时刻记录生活" class="headerlink" title="就是现在，时刻记录生活"></a>就是现在，时刻记录生活</h3><p>我想现在开始记录也不会太晚，现在写东西也不再需要考虑立意，结构，字数，我只留点东西给自己看看，记录下自己的所见所思即可。</p><h3 id="其他的私心"><a href="#其他的私心" class="headerlink" title="其他的私心"></a>其他的私心</h3><p>记录生活算是一个动机，那以下的两个算是私心吧。</p><p>1.最近接触到<a href="http://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/" target="_blank" rel="noopener">学习金字塔(learning paramid)</a>,得到一点启发便是‘教是更好的学’。写博客，文章在一定上是一个类似准备教案的过程，将所学所想需清晰的表述出来。</p><p>2.时刻记录生活的想法，哪怕是一张照片，一句话都ok，其实源于[微习惯][2这本书，希望自己能通过一个简单到不能拒绝的行为开始行动。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;想要写点东西的动机&quot;&gt;&lt;a href=&quot;#想要写点东西的动机&quot; class=&quot;headerlink&quot; title=&quot;想要写点东西的动机&quot;&gt;&lt;/a&gt;想要写点东西的动机&lt;/h2&gt;&lt;h3 id=&quot;也曾是“完美主义”者&quot;&gt;&lt;a href=&quot;#也曾是“完美主义”者&quot; class=&quot;headerlink&quot; title=&quot;也曾是“完美主义”者&quot;&gt;&lt;/a&gt;也曾是“完美主义”者&lt;/h3&gt;&lt;p&gt;学生时代的自己其实比较讨厌写作，每周的两节连堂的写作课都能让肾上腺素猛增，第一节课基本是写下个标题，列个提纲，构思个每段结构。看起来很专业的样子，其实都是完美主义在作祟，经常是一节课完了，就真的只有个题目，课间同道的同学互相调侃某某，又憋了什么大招，偶尔各自感叹的会回复下，如下的一则笑话，一语中的！&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/04/18/hello-world/"/>
+    <id>http://yoursite.com/2018/04/18/hello-world/</id>
+    <published>2018-04-17T23:32:51.000Z</published>
+    <updated>2018-04-17T23:32:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><a id="more"></a><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><p><div id="163music"><br>              <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="340" height="86" src="//music.163.com/outchain/player?type=2&id=18449193&auto=0&height=66"></iframe></div></p><div></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
